@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "tt",
+      "phone": "123456789",
+      "email": "111@qq.com",
+      "age": "20",
+      "id": 1,
+      "companyId": 1
+    },
+    {
+      "name": "dede",
+      "phone": "123456789",
+      "email": "222@qq.com",
+      "age": "30",
+      "id": 2,
+      "companyId": 2
+    },
+    {
+      "name": "wf",
+      "phone": "123456789",
+      "email": "333@qq.com",
+      "age": "23",
+      "id": 3,
+      "companyId": 3
+    },
+    {
+      "name": "mj",
+      "phone": "123456789",
+      "email": "444@qq.com",
+      "age": "45",
+      "id": 4,
+      "companyId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple lalala!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft lalala!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google lalala!"
+    }
+  ]
+}
